@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>contohprojectmaven</groupId>
   <artifactId>1302213038</artifactId>
-  <version>0.3.8</version> 
+  <version>0.3.9</version> 
 
 <dependencies>
   <dependency>
